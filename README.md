@@ -52,13 +52,9 @@
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--   skyline 
+<!--   skyline -->
 <a href="https://skyline.github.com/ggg6r34t/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+
 
 **📫 How to Reach me:**
 <p align="left">
